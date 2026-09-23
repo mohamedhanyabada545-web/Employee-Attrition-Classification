@@ -1,27 +1,28 @@
-# House Price Prediction Model
+# Employee Attrition Classification
 
 ## 📖 Overview
-This project builds a machine learning regression model to predict house prices based on property characteristics such as location, number of bedrooms, bathrooms, area, and age.
+This project builds a machine learning classification model to predict employee attrition — whether an employee is likely to leave the company — based on various workplace and demographic factors.
 
 ## 🎯 Objective
-Deliver an accurate, well‑documented model that helps estimate property selling prices using data‑driven insights.
+The goal is to help organizations identify potential attrition risks early and take proactive measures to improve employee retention.
 
 ## 🧩 Features
 - Data cleaning and preprocessing  
 - Exploratory data analysis (EDA)  
-- Feature engineering  
-- Model training and evaluation (MAE, RMSE, R²)  
-- Final report and trained model delivery  
+- Feature engineering and encoding  
+- Model training and evaluation (Accuracy, Precision, Recall, F1‑Score)  
+- Comparison of multiple classification algorithms  
+- Final report and insights visualization  
 
 ## 🛠️ Tools & Libraries
 Python, Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn
 
 ## 📦 Deliverables
-- Cleaned dataset  
-- Python source code  
+- Cleaned dataset (`Emp_attrition_csv.csv`)  
+- Python source code (`employee_attrition_classification_Final.py`)  
 - Trained model file  
-- Evaluation results  
-- Short report explaining methodology and findings  
+- Evaluation metrics and confusion matrix  
+- Short report summarizing methodology and results  
 
 ## 📅 Timeline
 10‑day schedule covering data preparation, modeling, evaluation, and documentation.
