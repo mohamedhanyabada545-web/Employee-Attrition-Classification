@@ -25,7 +25,7 @@ Python, Pandas, NumPy, Scikit‑learn, Matplotlib, Seaborn
 - Short report summarizing methodology and results  
 
 ## 📅 Timeline
-10‑day schedule covering data preparation, modeling, evaluation, and documentation.
+2‑day schedule covering data preparation, modeling, evaluation, and documentation.
 
 ## 👤 Author
 Mohamed Hany Abada — Machine Learning Engineer & Data Analyst
